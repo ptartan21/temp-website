@@ -166,6 +166,7 @@ The primary motivation of this is to make finding styles easier by breaking
         h2.center-text {
           font-size: 100px;
           text-align: center;
+          border: 2px solid rgb(41, 30, 30);
         }
 
         /* ------------------------------------------------------
