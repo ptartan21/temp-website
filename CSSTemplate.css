@@ -165,6 +165,7 @@ The primary motivation of this is to make finding styles easier by breaking
 
         h2.center-text {
           font-size: 450%;
+          text-align: center;
         }
 
         /* ------------------------------------------------------
