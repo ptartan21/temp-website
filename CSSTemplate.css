@@ -163,6 +163,10 @@ The primary motivation of this is to make finding styles easier by breaking
           font-family: 'Berkshire Swash', serif;
           font-size: 550%;}
 
+        h2.center-text {
+          font-size: 450%;
+        }
+
         /* ------------------------------------------------------
             1.2.2. Media (Video and Images)
         ------------------------------------------------------ */
@@ -175,7 +179,6 @@ The primary motivation of this is to make finding styles easier by breaking
         .img-3 {
           margin: auto;
           width: 80;}
-        }
 
         video{
           width: 940px;}
