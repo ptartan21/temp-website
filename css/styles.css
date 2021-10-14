@@ -105,7 +105,7 @@
           height: 300px;
         }
         
-        @media screen and (min-width:1200px) {
+        @media screen and (min-width: 768px) {
           .row-container {
             flex-wrap: nowrap;
           }
@@ -202,10 +202,6 @@
 /* ------------------------------------------------------
     3. Footer
 ------------------------------------------------------ */
-.footer {
-  text-align: center;
-}
-
 }
 
 .menu-holder {
