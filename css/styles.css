@@ -5,6 +5,19 @@
     /* ------------------------------------------------------
         1.1. Fonts
     ------------------------------------------------------ */
+    @import url('https://fonts.googleapis.com/css2?family=Long+Cang&family=Berkshire+Swash&display=swap');
+
+        /* ------------------------------------------------------
+            1.1.1. Header font - Open Sans
+        ------------------------------------------------------ */
+			
+			/* https://css-tricks.com/snippets/css/using-font-face/ */
+			@font-face {
+                  font-family: "Open Sans";
+                  font-weight: normal;
+                  font-style: normal;
+                  src: url("../fonts/Open-Sans/OpenSans-Regular.eot");
+                  src: url("../fonts/Open-Sans/OpenSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Open-Sans/OpenSans-Regular.woff") format("woff"), url("../fonts/Open-Sans/OpenSans-Regular.ttf") format("truetype");}
 
         /* ------------------------------------------------------
             1.1.1. Header font - Open Sans
